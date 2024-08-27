@@ -13,7 +13,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.1",
     "url-loader": "^1.1.1",
-    "webpack": "v3.11.0"
+    "webpack": "v5.94.0"
   },
   "devDependencies": {
     "file-loader": "^2.0.0",
